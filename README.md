@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Les Serres de Jardin</title>
+
 </head>
 <body>
 <h1>Bienvenue chez <strong>Les Serres de Jardin</strong> 🌿</h1>
